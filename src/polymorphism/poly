@@ -1,0 +1,11 @@
+Polymorphism
+1. compile time (overloading)
+  method name is same, method argument is different
+2. runtime (overriding)
+    parent child relationship
+    method name is same, method argument is same , return type is also same
+    covarient concept return type is differnt
+
+
+
+
